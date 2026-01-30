@@ -75,6 +75,15 @@ pip install streamlit pandas plotly
 ```bash
 streamlit run app.py
 ```
+---
+
+## 🖥 Como Executar o Dashboard na Internet
+
+Siga os passos abaixo para rodar o dashboard em qualquer dispositivo conectado:
+
+### 1️⃣ Acesse o link
+
+* 🔗 [Streamlit](https://imersao-dados-python-alura-jerfzz.streamlit.app/)
 
 ---
 
