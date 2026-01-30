@@ -86,6 +86,19 @@ streamlit run app.py
 
 ---
 
+## 📈 Evidências
+
+Seguem algumas evidências do projeto:
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/15b540b2-fb92-4dfb-9831-424cb2cb52da" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/40e19422-10f0-4c66-b2cc-0dba8067ae2d" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/a863179c-6aaa-484c-9667-194a191b4ab1" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e203aaf5-c2d9-4073-9550-3672b5fba038" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/b6359005-b06f-410e-8473-82812c8f17bf" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e85e728c-4463-4b6e-b3b3-639608247b0b" />
+
+---
+
 ## 👤 Autor
 
 **Jerfeson Silva Santos**
