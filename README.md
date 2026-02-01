@@ -92,6 +92,7 @@ Siga os passos abaixo para rodar o dashboard em qualquer dispositivo conectado:
 * `app.py` — Código principal da aplicação Streamlit
 * `dados-imersao-final.csv` — Dataset processado utilizado nas visualizações
 * `Imersao_Dados_Colab.ipynb` — Notebook com a análise exploratória inicial
+* `README.md ` — Documentação do projeto
 
 ---
 
